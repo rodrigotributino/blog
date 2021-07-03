@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>عربي</title>
+    <link>https://rodrigotributino.github.io/blog/ar/</link>
+    <description>Recent content on عربي</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://rodrigotributino.github.io/blog/ar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://rodrigotributino.github.io/blog/ar/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rodrigotributino.github.io/blog/ar/archives/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>للتواصل</title>
+      <link>https://rodrigotributino.github.io/blog/ar/contact/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rodrigotributino.github.io/blog/ar/contact/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>نموذج عربي</title>
+      <link>https://rodrigotributino.github.io/blog/ar/post/arabic_example/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rodrigotributino.github.io/blog/ar/post/arabic_example/</guid>
+      
+        <description>من مولد النص العربى، حيث يمكنك أن تولد مثل هذا النص أو العديد من النصوص الأخرى إضافة إلى زيادة عدد الحروف التى يولدها التطبيق.</description>
+      
+    </item>
+    
+    <item>
+      <title>حول</title>
+      <link>https://rodrigotributino.github.io/blog/ar/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rodrigotributino.github.io/blog/ar/about/</guid>
+      
+        <description>هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا النص من مولد النص العربى، حيث يمكنك أن تولد مثل هذا النص أو العديد من النصوص الأخرى إضافة إلى زيادة عدد الحروف التى يولدها التطبيق.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

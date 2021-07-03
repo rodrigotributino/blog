@@ -1,0 +1,16 @@
+baseURL: https://rodrigotributino.github.io/blog/
+languageCode: en
+DefaultContentLanguage: en
+title: Website of Jane Doe
+theme: anatole
+summarylength: 10
+enableEmoji: yes
+enableRobotsTXT: yes
+publishDir: docs
+pygmentsUseClasses: yes
+pygmentsCodeFences: yes
+pygmentsCodefencesGuessSyntax: yes
+markup:
+  goldmark:
+    renderer:
+      unsafe: yes
