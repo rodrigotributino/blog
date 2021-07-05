@@ -1,0 +1,26 @@
+/* Sidebar */
+
+
+.imagem-padrao {
+  border-radius: 10px;
+  width: 80%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.imagem-bola {
+  border-radius: 100px;
+  width: 200px;
+  height: 200px;
+  margin-left: 60px;
+  margin-top: 20px;
+}
+
+.post-title {
+  margin-bottom: 20px;
+}
+
+.post-title-list {
+  width: 55%;
+}

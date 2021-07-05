@@ -1,28 +1,29 @@
 ---
 aliases:
 - about-us
-- about-hugo
+- sobre-mim
 - contact
-author: Hugo Authors
-date: "2019-02-28"
-description: Hugo, the world's fastest framework for building websites
-title: About
+author: Rodrigo Tributino Gonçalves
+date: "2021-07-03"
+description: Um pouco sobre minha trajetória acadêmica e profissional
+title: Sobre mim
 ---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Oi, tudo bem? Eu espero que sim! 
 
-Hugo makes use of a variety of open source projects including:
+Me chamo Rodrigo, sou formado em Estatística e me interesso por tudo que envolve análise de dados. Atuo há cerca de 4 anos com análise de dados, aplicação de técnicas estatísticas e programação em R. Atividades como automatização de rotinas, limpeza e tratamento de dados para criação de relatórios, dashboards e modelagem, estão no meu dia a dia profissional ou em projetos pessoais. Possuo também experiência com outras ferramentas de manipulação (SQL), análise (SAS e python) e visualização (Tableau) de dados.
 
-- https://github.com/yuin/goldmark
-- https://github.com/alecthomas/chroma
-- https://github.com/muesli/smartcrop
-- https://github.com/spf13/cobra
-- https://github.com/spf13/viper
+Meus hobbies preferidos são:
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+ :guitar: tocar violão
+ 
+ :movie_camera: assistir séries e filmes
+ 
+ :soccer: jogar ou assistir futebol
+ 
+ :video_game: games
+ 
+### **Contatos**:
+- github: https://github.com/rodrigotributino
+- linkedin: https://www.linkedin.com/in/rodrigo-tributino-goncalves/
+- e-mail: rotributino@gmail.com

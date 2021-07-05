@@ -1,15 +1,15 @@
 
-title = "Estatística & Ciência de Dados"
-author = "Rodrigo Tributino"
+title = "Rodrigo Tributino Gonçalves"
+author = "Rodrigo Tributino Gonçalves"
 #copyright = "2020-2021"
 description = "[Em construção]"
-profilePicture = "images/Rodrigo.jpeg"
+profilePicture = "images/Rodrigo.jpg"
 keywords = ""
-favicon = "favicons/"
+favicon = "icone/"
 # example ["css/custom.css"]
-customCss = []
+customCss = ["css/custom.css"]
 # example ["js/custom.js"]
-customJs = []
+#customJs = []
 mainSections = ["post"]
 images = ["images/site-feature-image.png"]
 doNotLoadAnimations = false
@@ -23,12 +23,13 @@ listDateFormat = "2/1/2006"
 # Commento Comments
 # CommentoURL = "https://commento.example.com/js/commento.js"
 # Read More links for truncated summaries
-# readMore = true
-# postSectionName = "blog"
-
+#readMore = true
+#postSectionName = "blog"
+contentratio = 0.7
 
 [simpleAnalytics]
-# enable = true
+enable = true
+use = "mathjax"
 # customurl = "https://analytics.example.com"
 
 ## Math settings
@@ -56,4 +57,19 @@ url = "https://www.instagram.com/rotributino_/"
 [[socialIcons]]
 icon = "fas fa-envelope"
 title = "e-mail"
-url = "rotributino@gmail.com"
+url = "mailto:rotributino@gmail.com"
+
+[[socialIcons]]
+icon = "fab fa-skype"
+title = "skype"
+url = "https://join.skype.com/invite/rCJeXp2rrPyT"
+
+[[socialIcons]]
+icon = "fab fa-twitter"
+title = "twitter"
+url = "https://twitter.com/ro_tributino"
+
+[[socialIcons]]
+icon = "fab fa-kaggle"
+title = "kaggle"
+url = "https://www.kaggle.com/rodrigotributino"

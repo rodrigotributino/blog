@@ -1,13 +1,13 @@
 [en]
-title = "My blog"
+title = "Rodrigo Tributino"
 weight = 1
-LanguageName = "EN"
+#LanguageName = "EN"
 contentDir = "content/english"
 
-[ar]
-title = "عربي"
-description = "أنا أحمد"
-contentDir = "content/arabic" 
-weight = 2
-LanguageDirection = "rtl" 
-LanguageName = "AR"
+#[ar]
+#title = "عربي"
+#description = "أنا أحمد"
+#contentDir = "content/arabic"
+#weight = 2
+#LanguageDirection = "rtl"
+#LanguageName = "AR"
