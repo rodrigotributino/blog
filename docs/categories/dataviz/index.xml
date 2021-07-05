@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dataviz on Rodrigo Tributino</title>
+    <link>https://rodrigotributino.github.io/blog/categories/dataviz/</link>
+    <description>Recent content in dataviz on Rodrigo Tributino</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 04 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://rodrigotributino.github.io/blog/categories/dataviz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dashboard no Tableau</title>
+      <link>https://rodrigotributino.github.io/blog/post/2021-07-04-churn-rate-dashboard-no-tableau-public/</link>
+      <pubDate>Sun, 04 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://rodrigotributino.github.io/blog/post/2021-07-04-churn-rate-dashboard-no-tableau-public/</guid>
+      
+        <description>Em 2020, durante a minha passagem pelo iFood, tive meu primeiro contato de maneira mais profunda com o Tableau, onde tive a oportunidade de desenvolver um dashboard para acompanhamento de leads.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

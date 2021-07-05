@@ -1,18 +1,63 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>عربي</title>
+    <title>Rodrigo Tributino Gonçalves</title>
     <link>https://rodrigotributino.github.io/blog/ar/</link>
-    <description>Recent content on عربي</description>
+    <description>Recent content on Rodrigo Tributino Gonçalves</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://rodrigotributino.github.io/blog/ar/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://rodrigotributino.github.io/blog/ar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CURRICULUM VITAE</title>
+      <link>https://rodrigotributino.github.io/blog/ar/english/cv/</link>
+      <pubDate>Sat, 03 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://rodrigotributino.github.io/blog/ar/english/cv/</guid>
+      
+        <description>🚧🚧 Em construção 🚧🚧</description>
+      
+    </item>
+    
+    <item>
+      <title>Sobre mim</title>
+      <link>https://rodrigotributino.github.io/blog/ar/english/about/</link>
+      <pubDate>Sat, 03 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://rodrigotributino.github.io/blog/ar/english/about/</guid>
+      
+        <description>Oi, tudo bem? Eu espero que sim!
+Me chamo Rodrigo, sou formado em Estatística e me interesso por tudo que envolve análise de dados.</description>
+      
+    </item>
+    
     <item>
       <title></title>
-      <link>https://rodrigotributino.github.io/blog/ar/archives/</link>
+      <link>https://rodrigotributino.github.io/blog/ar/arabic/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://rodrigotributino.github.io/blog/ar/archives/</guid>
+      <guid>https://rodrigotributino.github.io/blog/ar/arabic/archives/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://rodrigotributino.github.io/blog/ar/english/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rodrigotributino.github.io/blog/ar/english/archives/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://rodrigotributino.github.io/blog/ar/english/contact/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://rodrigotributino.github.io/blog/ar/english/contact/</guid>
       
         <description></description>
       
@@ -20,10 +65,10 @@
     
     <item>
       <title>للتواصل</title>
-      <link>https://rodrigotributino.github.io/blog/ar/contact/</link>
+      <link>https://rodrigotributino.github.io/blog/ar/arabic/contact/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://rodrigotributino.github.io/blog/ar/contact/</guid>
+      <guid>https://rodrigotributino.github.io/blog/ar/arabic/contact/</guid>
       
         <description></description>
       
@@ -31,10 +76,10 @@
     
     <item>
       <title>نموذج عربي</title>
-      <link>https://rodrigotributino.github.io/blog/ar/post/arabic_example/</link>
+      <link>https://rodrigotributino.github.io/blog/ar/arabic/post/arabic_example/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://rodrigotributino.github.io/blog/ar/post/arabic_example/</guid>
+      <guid>https://rodrigotributino.github.io/blog/ar/arabic/post/arabic_example/</guid>
       
         <description>من مولد النص العربى، حيث يمكنك أن تولد مثل هذا النص أو العديد من النصوص الأخرى إضافة إلى زيادة عدد الحروف التى يولدها التطبيق.</description>
       
@@ -42,12 +87,23 @@
     
     <item>
       <title>حول</title>
-      <link>https://rodrigotributino.github.io/blog/ar/about/</link>
+      <link>https://rodrigotributino.github.io/blog/ar/arabic/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://rodrigotributino.github.io/blog/ar/about/</guid>
+      <guid>https://rodrigotributino.github.io/blog/ar/arabic/about/</guid>
       
         <description>هذا النص هو مثال لنص يمكن أن يستبدل في نفس المساحة، لقد تم توليد هذا النص من مولد النص العربى، حيث يمكنك أن تولد مثل هذا النص أو العديد من النصوص الأخرى إضافة إلى زيادة عدد الحروف التى يولدها التطبيق.</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://rodrigotributino.github.io/blog/ar/english/imprint/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rodrigotributino.github.io/blog/ar/english/imprint/</guid>
+      
+        <description></description>
       
     </item>
     

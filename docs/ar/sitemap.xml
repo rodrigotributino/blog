@@ -2,34 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://rodrigotributino.github.io/blog/ar/archives/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://rodrigotributino.github.io/blog/archives/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://rodrigotributino.github.io/blog/ar/archives/"
-                />
+    <loc>https://rodrigotributino.github.io/blog/ar/english/</loc>
+    <lastmod>2021-07-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rodrigotributino.github.io/blog/ar/contact/</loc>
-    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://rodrigotributino.github.io/blog/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://rodrigotributino.github.io/blog/ar/contact/"
-                />
+    <loc>https://rodrigotributino.github.io/blog/ar/english/cv/</loc>
+    <lastmod>2021-07-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rodrigotributino.github.io/blog/ar/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+    <lastmod>2021-07-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -41,18 +21,26 @@
                 href="https://rodrigotributino.github.io/blog/ar/"
                 />
   </url><url>
-    <loc>https://rodrigotributino.github.io/blog/ar/post/</loc>
+    <loc>https://rodrigotributino.github.io/blog/ar/english/about/</loc>
+    <lastmod>2021-07-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rodrigotributino.github.io/blog/ar/arabic/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rodrigotributino.github.io/blog/ar/arabic/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rodrigotributino.github.io/blog/ar/english/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rodrigotributino.github.io/blog/ar/english/contact/</loc>
+    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rodrigotributino.github.io/blog/ar/arabic/contact/</loc>
+    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rodrigotributino.github.io/blog/ar/arabic/post/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://rodrigotributino.github.io/blog/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://rodrigotributino.github.io/blog/ar/post/"
-                />
   </url><url>
     <loc>https://rodrigotributino.github.io/blog/ar/tags/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
@@ -70,21 +58,13 @@
     <loc>https://rodrigotributino.github.io/blog/ar/tags/%D8%B9%D8%B1%D8%A8%D9%8A/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rodrigotributino.github.io/blog/ar/post/arabic_example/</loc>
+    <loc>https://rodrigotributino.github.io/blog/ar/arabic/post/arabic_example/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rodrigotributino.github.io/blog/ar/about/</loc>
+    <loc>https://rodrigotributino.github.io/blog/ar/arabic/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://rodrigotributino.github.io/blog/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://rodrigotributino.github.io/blog/ar/about/"
-                />
+  </url><url>
+    <loc>https://rodrigotributino.github.io/blog/ar/english/imprint/</loc>
   </url><url>
     <loc>https://rodrigotributino.github.io/blog/ar/categories/</loc>
     <xhtml:link
@@ -99,15 +79,5 @@
                 />
   </url><url>
     <loc>https://rodrigotributino.github.io/blog/ar/tags/index/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://rodrigotributino.github.io/blog/tags/index/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://rodrigotributino.github.io/blog/ar/tags/index/"
-                />
   </url>
 </urlset>
