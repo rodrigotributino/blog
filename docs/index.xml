@@ -8,6 +8,17 @@
     <language>en</language>
     <lastBuildDate>Sun, 04 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://rodrigotributino.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Contact</title>
+      <link>https://rodrigotributino.github.io/blog/contact/</link>
+      <pubDate>Sun, 04 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://rodrigotributino.github.io/blog/contact/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
       <title>Dashboard no Tableau</title>
       <link>https://rodrigotributino.github.io/blog/post/2021-07-04-churn-rate-dashboard-no-tableau-public/</link>
       <pubDate>Sun, 04 Jul 2021 00:00:00 +0000</pubDate>
@@ -47,17 +58,6 @@ Me chamo Rodrigo, sou formado em Estatística e me interesso por tudo que envolv
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://rodrigotributino.github.io/blog/archives/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://rodrigotributino.github.io/blog/contact/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://rodrigotributino.github.io/blog/contact/</guid>
       
         <description></description>
       

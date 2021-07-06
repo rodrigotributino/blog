@@ -6,7 +6,18 @@
     <description>Recent content on Rodrigo Tributino Gonçalves</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 03 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://rodrigotributino.github.io/blog/ar/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://rodrigotributino.github.io/blog/ar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>https://rodrigotributino.github.io/blog/ar/english/contact/</link>
+      <pubDate>Sun, 04 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://rodrigotributino.github.io/blog/ar/english/contact/</guid>
+      
+        <description></description>
+      
+    </item>
+    
     <item>
       <title>CURRICULUM VITAE</title>
       <link>https://rodrigotributino.github.io/blog/ar/english/cv/</link>
@@ -47,17 +58,6 @@ Me chamo Rodrigo, sou formado em Estatística e me interesso por tudo que envolv
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://rodrigotributino.github.io/blog/ar/english/archives/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://rodrigotributino.github.io/blog/ar/english/contact/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://rodrigotributino.github.io/blog/ar/english/contact/</guid>
       
         <description></description>
       
